@@ -1,0 +1,5 @@
+steps to run project
+
+1. json-server db.json --watch
+
+2. npm start

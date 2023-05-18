@@ -1,0 +1,184 @@
+{
+  "users": [
+    {
+      "name": "pratik ",
+      "username": "pratik123",
+      "email": "pratik@gmail.com",
+      "phone": "9876546789",
+      "id": 7
+    },
+    {
+      "name": "tanmay",
+      "username": "tanmay123",
+      "email": "tanmay@gmail.com",
+      "phone": "8670987654",
+      "id": 8
+    },
+    {
+      "name": "vishal Bodke",
+      "username": "vishalB",
+      "email": "vishalB123@gmail.com",
+      "phone": "8767898765",
+      "id": 9
+    },
+    {
+      "email": "raja@gmail.com",
+      "password": "Raj@1234",
+      "confirmPassword": "Raj@1234",
+      "id": 14,
+      "name": "Raja",
+      "phone": "9876789087",
+      "username": "Rajesh"
+    },
+    {
+      "email": "shweta@gmail.com",
+      "password": "Shweta@123",
+      "confirmPassword": "Shweta@123",
+      "id": 17,
+      "name": "Shweta Pawar",
+      "phone": "7896789654",
+      "username": "Shweta"
+    },
+    {
+      "email": "vishnu@gmail.com",
+      "password": "Vishnu@123",
+      "confirmPassword": "Vishnu@123",
+      "id": 22,
+      "name": "vishnu",
+      "phone": "8765434567",
+      "username": "Vishnu123"
+    },
+    {
+      "name": "jsdhk",
+      "username": "asdfa",
+      "email": "Asha@gmail.com",
+      "phone": "9876543212",
+      "id": 25
+    },
+    {
+      "email": "kanchan@gmail.com",
+      "password": "Kanchan@123",
+      "confirmPassword": "Kanchan@123",
+      "id": 26,
+      "name": "Kanchan",
+      "phone": "6677555555",
+      "username": "Kanchana"
+    },
+    {
+      "name": "tanmay",
+      "username": "56utrgd",
+      "email": "67iy54@gmail.com",
+      "phone": "5678748329",
+      "id": 28
+    },
+    {
+      "name": "visal",
+      "username": "visal125",
+      "email": "visal@gmail.com",
+      "phone": "9898987771",
+      "id": 30
+    },
+    {
+      "email": "pooja@gmail.com",
+      "password": "Pooja@123",
+      "id": 31,
+      "name": "Pooja",
+      "phone": "8765456789",
+      "username": "pooja123"
+    },
+    {
+      "name": "Akshay",
+      "username": "AkshayB",
+      "email": "akshay@gmail.com",
+      "phone": "3242433444",
+      "id": 32
+    },
+    {
+      "email": "vishal@gmail.com",
+      "password": "Vishal@123",
+      "id": 33,
+      "name": "Vishal",
+      "phone": "7722002544",
+      "username": "vishalp123"
+    },
+    {
+      "email": "komal@gmail.com",
+      "password": "Komal@123",
+      "id": 34,
+      "name": "Komal",
+      "phone": "9876789087",
+      "username": "komal11"
+    }
+  ],
+  "login": [
+    {
+      "email": "vaishali@gmail.com",
+      "password": "Vaishali@123",
+      "id": 26
+    },
+    {
+      "email": "vishal@gmail.com",
+      "password": "Vishal@123",
+      "id": 27
+    },
+    {
+      "email": "dhanshri@gmail.com",
+      "password": "Dhani@123",
+      "id": 28
+    },
+    {
+      "email": "rahul@gmail.com",
+      "password": "Rahul@123",
+      "id": 29
+    },
+    {
+      "email": "kajal@gmail.com",
+      "password": "Asdf@123",
+      "id": 30
+    },
+    {
+      "email": "shubham@gmail.com",
+      "password": "Shubham@123",
+      "id": 31
+    },
+    {
+      "email": "aarti@gmail.com",
+      "password": "Arti@123",
+      "id": 41
+    },
+    {
+      "email": "pratap@gmail.com",
+      "password": "Tanu@123",
+      "id": 42
+    },
+    {
+      "email": "pavan12@gmail.com",
+      "password": "Pavan@123",
+      "id": 43
+    },
+    {
+      "email": "viru@gmail.com",
+      "password": "Viru@123",
+      "confirmPassword": "Viru@123",
+      "id": 44
+    },
+    {
+      "email": "arav@gmail.com",
+      "password": "Arav@123",
+      "confirmPassword": "Arav@123",
+      "id": 45
+    },
+    {
+      "email": "andru@gmail.com",
+      "password": "Andru@123",
+      "confirmPassword": "Andru@123",
+      "id": 46
+    },
+    {
+      "email": "lala@gmail.com",
+      "password": "Lala@123",
+      "confirmPassword": "Lala@123",
+      "id": 47
+    }
+  ]
+}
